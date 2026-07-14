@@ -1,4 +1,4 @@
-let fruits = ["Pineapple", "Puppaya", "Dragon Fruit"];
+let fruits = ["Pineapple", "Pupaya", "Dragon Fruit"];
 
 console.log(fruits);
 
